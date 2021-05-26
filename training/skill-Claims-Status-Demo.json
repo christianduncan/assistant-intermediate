@@ -1,0 +1,3822 @@
+{
+  "intents": [
+    {
+      "intent": "exclaimationPositive",
+      "examples": [
+        {
+          "text": "actually, yes"
+        },
+        {
+          "text": "alright"
+        },
+        {
+          "text": "amazing!"
+        },
+        {
+          "text": "Awesome"
+        },
+        {
+          "text": "Cool"
+        },
+        {
+          "text": "cool beans"
+        },
+        {
+          "text": "excellent"
+        },
+        {
+          "text": "great!"
+        },
+        {
+          "text": "I am"
+        },
+        {
+          "text": "I can"
+        },
+        {
+          "text": "i can, just one sec"
+        },
+        {
+          "text": "I'd like that"
+        },
+        {
+          "text": "I do"
+        },
+        {
+          "text": "i love this"
+        },
+        {
+          "text": "im doing well"
+        },
+        {
+          "text": "im pretty sure"
+        },
+        {
+          "text": "im sure"
+        },
+        {
+          "text": "incredible"
+        },
+        {
+          "text": "Ok"
+        },
+        {
+          "text": "okay"
+        },
+        {
+          "text": "Ok Great"
+        },
+        {
+          "text": "Super"
+        },
+        {
+          "text": "sure"
+        },
+        {
+          "text": "sweet"
+        },
+        {
+          "text": "terrific"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thanks for your assistance!"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thats cute"
+        },
+        {
+          "text": "that would be great"
+        },
+        {
+          "text": "this is awesome"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "wonderful"
+        },
+        {
+          "text": "yeah I do just one sec"
+        },
+        {
+          "text": "yeah I do just on sec"
+        },
+        {
+          "text": "yep"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "ye splease"
+        },
+        {
+          "text": "yes please"
+        },
+        {
+          "text": "yes plz"
+        },
+        {
+          "text": "yes thanks"
+        },
+        {
+          "text": "yup"
+        },
+        {
+          "text": "yus"
+        }
+      ]
+    },
+    {
+      "intent": "exclamationNegative",
+      "examples": [
+        {
+          "text": "absolutely not"
+        },
+        {
+          "text": "definitely not"
+        },
+        {
+          "text": "dont think so"
+        },
+        {
+          "text": "i can't"
+        },
+        {
+          "text": "i can't find it"
+        },
+        {
+          "text": "I couldnt tell you"
+        },
+        {
+          "text": "I dont think so"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "im lost. i don't see anything you're talking about"
+        },
+        {
+          "text": "it didnt work"
+        },
+        {
+          "text": "nah"
+        },
+        {
+          "text": "naw"
+        },
+        {
+          "text": "naw thanks"
+        },
+        {
+          "text": "negative"
+        },
+        {
+          "text": "Never"
+        },
+        {
+          "text": "nix"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "No!"
+        },
+        {
+          "text": "no,"
+        },
+        {
+          "text": "No, I don't know who can do that"
+        },
+        {
+          "text": "No I don't need to do that now."
+        },
+        {
+          "text": "no Im afraid"
+        },
+        {
+          "text": "nope"
+        },
+        {
+          "text": "no, spouse"
+        },
+        {
+          "text": "Not at all"
+        },
+        {
+          "text": "not good"
+        },
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "no thank you"
+        },
+        {
+          "text": "no thx"
+        },
+        {
+          "text": "not yet"
+        },
+        {
+          "text": "No, what you have is incorrect."
+        },
+        {
+          "text": "that did not work"
+        },
+        {
+          "text": "that doesnt help"
+        },
+        {
+          "text": "that sucks"
+        },
+        {
+          "text": "there is an error"
+        },
+        {
+          "text": "this is frustrating"
+        },
+        {
+          "text": "ugh. im annoyed"
+        },
+        {
+          "text": "wrong answer"
+        },
+        {
+          "text": "you are not right"
+        },
+        {
+          "text": "you are wrong"
+        }
+      ]
+    },
+    {
+      "intent": "notSure",
+      "examples": [
+        {
+          "text": "don't ask me"
+        },
+        {
+          "text": "dont know"
+        },
+        {
+          "text": "dunno"
+        },
+        {
+          "text": "god knows"
+        },
+        {
+          "text": "god only knows"
+        },
+        {
+          "text": "goodness knows"
+        },
+        {
+          "text": "heaven knows"
+        },
+        {
+          "text": "how should i know"
+        },
+        {
+          "text": "how would i know"
+        },
+        {
+          "text": "idk"
+        },
+        {
+          "text": "IDK. What do you think?"
+        },
+        {
+          "text": "I don't have one"
+        },
+        {
+          "text": "I don't have that"
+        },
+        {
+          "text": "I don't know"
+        },
+        {
+          "text": "I dunno"
+        },
+        {
+          "text": "i have no clues"
+        },
+        {
+          "text": "I have no idea"
+        },
+        {
+          "text": "I'm not sure"
+        },
+        {
+          "text": "im really not sure"
+        },
+        {
+          "text": "I'm unsure who my doctor is"
+        },
+        {
+          "text": "it beats me"
+        },
+        {
+          "text": "lord knows"
+        },
+        {
+          "text": "maybe"
+        },
+        {
+          "text": "no idea"
+        },
+        {
+          "text": "No ideas"
+        },
+        {
+          "text": "not sure about it"
+        }
+      ]
+    },
+    {
+      "intent": "queryClaimsActivity",
+      "examples": [
+        {
+          "text": "Can I see a short list of my recent claims?"
+        },
+        {
+          "text": "Can I see my recent claims?"
+        },
+        {
+          "text": "Can you display claims activity?"
+        },
+        {
+          "text": "can you show me the recent claims activity on my plan"
+        },
+        {
+          "text": "Can you tell me the claims on my account for the last few months?"
+        },
+        {
+          "text": "Do you have an overview of my claims?"
+        },
+        {
+          "text": "How can I view my recent claims"
+        },
+        {
+          "text": "How to view recent claims activity"
+        },
+        {
+          "text": "I'd like to see my claims since ."
+        },
+        {
+          "text": "I'm not sure about something on my bill, can I see my last few claims?"
+        },
+        {
+          "text": "I need to see all of my claims"
+        },
+        {
+          "text": "I need to see my last few claims."
+        },
+        {
+          "text": "Is there a place to see my last couple claims"
+        },
+        {
+          "text": "Is there a way to see the most recent claims activity on my plan"
+        },
+        {
+          "text": "Please list out my recent claims."
+        },
+        {
+          "text": "Please show me my last few claims"
+        },
+        {
+          "text": "recent claim activity, please."
+        },
+        {
+          "text": "Show me recent claims."
+        },
+        {
+          "text": "what were my last few claims"
+        },
+        {
+          "text": "What were my last few claims?"
+        },
+        {
+          "text": "where can I find information about my recent claims"
+        }
+      ]
+    },
+    {
+      "intent": "queryPendingClaims",
+      "examples": [
+        {
+          "text": "Are any of my claims awaiting a decision"
+        },
+        {
+          "text": "are any of my claims unresolved?"
+        },
+        {
+          "text": "Are any of my recent claims pending?"
+        },
+        {
+          "text": "Are there any recent claims on my account that are still pending"
+        },
+        {
+          "text": "Can I see a list of unsettled claims?"
+        },
+        {
+          "text": "Can I see any pending claims I have?"
+        },
+        {
+          "text": "Can I see if any of my claims are still under review"
+        },
+        {
+          "text": "Can I view if any claims are still in process"
+        },
+        {
+          "text": "Can I view my outstanding claims?"
+        },
+        {
+          "text": "Display a list of my pending claims"
+        },
+        {
+          "text": "Do I have any claims are not settled yet?"
+        },
+        {
+          "text": "Do I have any claims that are still being reviewed?"
+        },
+        {
+          "text": "Do I have any pending claims?"
+        },
+        {
+          "text": "Do I have pending claims?"
+        },
+        {
+          "text": "Give me a list of my claims that I have to settle."
+        },
+        {
+          "text": "Is there a webpage that shows pending claims"
+        },
+        {
+          "text": "List of claims awaiting a result."
+        },
+        {
+          "text": "pending claims"
+        },
+        {
+          "text": "View claims still being processed"
+        },
+        {
+          "text": "View incomplete claims"
+        },
+        {
+          "text": "View pending claims"
+        },
+        {
+          "text": "Where do I see if I have any pending claims?"
+        },
+        {
+          "text": "which of my claims are pending?"
+        }
+      ]
+    },
+    {
+      "intent": "queryRejectedClaims",
+      "examples": [
+        {
+          "text": "Can I see any claims that were rejected?"
+        },
+        {
+          "text": "Can I see rejected claims?"
+        },
+        {
+          "text": "Can I view a list of my rejected claims?"
+        },
+        {
+          "text": "claims that were rejected"
+        },
+        {
+          "text": "Did you guys deny a claim recently?"
+        },
+        {
+          "text": "Do I have any declined claims?"
+        },
+        {
+          "text": "Have any of my claims been rejected?"
+        },
+        {
+          "text": "Have any of my recent claims been denied?"
+        },
+        {
+          "text": "How do I know if my claim has been rejected?"
+        },
+        {
+          "text": "I'd like to see which charges to my plan you guys denied lately"
+        },
+        {
+          "text": "I got a letter that my claim was denied. Can I please see what was denied"
+        },
+        {
+          "text": "I want to see what you refused to pay for"
+        },
+        {
+          "text": "My doctor said you denied my claim can I please see it"
+        },
+        {
+          "text": "Need a list of rejected claims."
+        },
+        {
+          "text": "Please show me any recent denied claims"
+        },
+        {
+          "text": "recent claim rejection information"
+        },
+        {
+          "text": "Recent denials for my plan?"
+        },
+        {
+          "text": "rejected claims?"
+        },
+        {
+          "text": "view denied claims"
+        },
+        {
+          "text": "What claims have been rejected so I can figure out what I need to appeal later."
+        },
+        {
+          "text": "where can I see if my claims got rejected"
+        },
+        {
+          "text": "Which of my recent claims got rejected"
+        }
+      ]
+    },
+    {
+      "intent": "querySubmitClaim",
+      "examples": [
+        {
+          "text": "Best way to track the claim I submitted?"
+        },
+        {
+          "text": "Can i check a claim status online?"
+        },
+        {
+          "text": "Can I check on my claim online?"
+        },
+        {
+          "text": "Can I have an update on my request?"
+        },
+        {
+          "text": "Check status of recent"
+        },
+        {
+          "text": "did that request go through?"
+        },
+        {
+          "text": "Have you made progress on"
+        },
+        {
+          "text": "How can I check my claims status?"
+        },
+        {
+          "text": "how do i find out about more about the status of my claims?"
+        },
+        {
+          "text": "How do I find the status of my current claims?"
+        },
+        {
+          "text": "How do I know if that was approved or not?"
+        },
+        {
+          "text": "how do i review my claim status?"
+        },
+        {
+          "text": "how do i track my claim?"
+        },
+        {
+          "text": "How long until I know that went through?"
+        },
+        {
+          "text": "how to review the status of my claim?"
+        },
+        {
+          "text": "I need the status"
+        },
+        {
+          "text": "I need to find the status"
+        },
+        {
+          "text": "I need to know ASAP if that has been processed"
+        },
+        {
+          "text": "I need to know the status of"
+        },
+        {
+          "text": "I need to review my status. I have a ton of questions."
+        },
+        {
+          "text": "I need to track the status of"
+        },
+        {
+          "text": "I submitted a new request recently. What is the status?"
+        },
+        {
+          "text": "Just tell me the status"
+        },
+        {
+          "text": "need to know the sates of my claim"
+        },
+        {
+          "text": "Status of my most recent claim?"
+        },
+        {
+          "text": "Status please"
+        },
+        {
+          "text": "Tell me my status"
+        },
+        {
+          "text": "Tell me when my status will be available."
+        },
+        {
+          "text": "What is the best way for me to review my status"
+        },
+        {
+          "text": "What is the progress of my claims?"
+        },
+        {
+          "text": "What is the status of my"
+        },
+        {
+          "text": "What is the status of my submitted request?"
+        },
+        {
+          "text": "What is the status of patient"
+        },
+        {
+          "text": "where am i at in terms of my claim status?"
+        },
+        {
+          "text": "Where can I find more information on the status of my claims?"
+        },
+        {
+          "text": "Where can I see the status of"
+        },
+        {
+          "text": "Where can I see the status of my current claims?"
+        },
+        {
+          "text": "Who here can give me the status of my"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "claimType",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Existing Claim",
+          "synonyms": [
+            "existing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mental Health",
+          "synonyms": [
+            "mental"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "New Claim",
+          "synonyms": [
+            "new"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-currency",
+      "values": []
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-location",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-percentage",
+      "values": []
+    },
+    {
+      "entity": "sys-person",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "runtime_version": "2016-09-20"
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Status of another claim?",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like to check the status of another claim?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "false",
+      "dialog_node": "node_10_1557934621882",
+      "previous_sibling": "node_5_1557934376381"
+    },
+    {
+      "type": "standard",
+      "title": "Claims by Date - 4/1/19",
+      "output": {
+        "text": {
+          "values": [
+            "Please view the dynamic UI below:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('2019-04-01')",
+      "dialog_node": "node_10_1557940044765",
+      "previous_sibling": "node_8_1557940010137"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1557937200670",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_10_1557945410545",
+      "previous_sibling": "node_5_1557944855806"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170904 - copy1",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1557934942366",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "I see the following claims and status on file for you:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170904')",
+      "dialog_node": "node_10_1558012819077",
+      "previous_sibling": "node_7_1558012808143"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1557937225459",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_11_1557945428310",
+      "previous_sibling": "node_6_1557944913584"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1558012819077",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_11_1558012819079"
+    },
+    {
+      "type": "standard",
+      "title": "1 - conversation_start (PLEASE KEEP)",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_22_1519226028784"
+      },
+      "conditions": "conversation_start",
+      "digress_in": "not_available",
+      "dialog_node": "node_1_1467221909631",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "Second time - ask to try again",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry I am still having trouble understanding you. Can you ask your question in a different way again? No keywords please, but ask your question in a full sentence."
+          ]
+        }
+      },
+      "parent": "node_2_1467221939202",
+      "metadata": {},
+      "conditions": "$defaultCounter==2",
+      "dialog_node": "node_1_1467919680248",
+      "previous_sibling": "node_1_1510771711504"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Good afternoon! I'm Emma, your virtual assistant, here to help you in answering member questions about benefit coverage."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_1_1467221909631",
+      "context": {
+        "isSSO": "false",
+        "attempt": 0,
+        "memberID": "NA",
+        "claimType": "NA",
+        "actionCode": "NA",
+        "memberName": "NA",
+        "memberFirstName": "NA",
+        "memberOrProviderIndicator": "MEMBER"
+      },
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_1_1499356707320",
+      "previous_sibling": "node_1_1531929937954"
+    },
+    {
+      "type": "standard",
+      "title": "102 - Failed to identify member ID",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1510241324154",
+      "context": {
+        "attempt": "<?$attempt+1?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1509995111712"
+      },
+      "conditions": "$actionCode==\"102\"",
+      "dialog_node": "node_1_1509976422392"
+    },
+    {
+      "type": "standard",
+      "title": "Ask for Member Name",
+      "output": {
+        "text": {
+          "values": [
+            "To get started, please enter the member name."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_23_1519226042267",
+      "context": {
+        "actionCode": "201"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1508804905779"
+      },
+      "conditions": "true",
+      "dialog_node": "node_1_1509977216048"
+    },
+    {
+      "type": "standard",
+      "title": "Ask to enter member name again",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry, no such member exists. Please re-enter a valid member name. If you would like to speak with a Live Agent, type \"Agent\""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1509976422392",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1508804905779"
+      },
+      "conditions": "true",
+      "dialog_node": "node_1_1509991876429",
+      "previous_sibling": "node_1_1510194484035"
+    },
+    {
+      "type": "standard",
+      "title": "Second attempt - Ask to try again",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry I still cannot find the member name. Please try again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1509976422392",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1508804905779"
+      },
+      "conditions": "$attempt==2",
+      "dialog_node": "node_1_1510194484035",
+      "previous_sibling": "node_2_1509995111712"
+    },
+    {
+      "type": "standard",
+      "title": "Third Time - Connect to a live agent",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry I think it's better to connect you to a live agent so that they can better assist you."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1467221939202",
+      "metadata": {},
+      "conditions": "$defaultCounter==3",
+      "dialog_node": "node_1_1510771711504"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks, $memberFirstName. Which family member are you inquiring about today? <br><br> $membersConcatenatedSOE"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1510241974667",
+      "context": {
+        "actionCode": "201"
+      },
+      "metadata": {},
+      "conditions": "$memberFamilyIndicatorSOE==\"FAMILY\"",
+      "dialog_node": "node_1_1515168656749"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Good morning! I'm Emma, your virtual assistant, here to help you in answering member questions about benefit coverage."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_1_1467221909631",
+      "context": {
+        "isSSO": "false",
+        "attempt": 0,
+        "memberID": "NA",
+        "claimType": "NA",
+        "actionCode": "NA",
+        "memberName": "NA",
+        "memberFirstName": "NA"
+      },
+      "metadata": {},
+      "conditions": "now().sameOrAfter('00:00:00') && now().sameOrBefore('12:00:00')",
+      "dialog_node": "node_1_1531929937954"
+    },
+    {
+      "type": "standard",
+      "title": "38 - CLAIM STATUS (DEMO) (PLEASE KEEP)",
+      "output": {
+        "text": {
+          "values": [
+            "Just to make sure I got it right - would you like to check on the status of an existing claim or file a new one?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Check the status of an existing claim",
+                  "value": "existing claim"
+                },
+                {
+                  "label": "File a New Claim",
+                  "value": "new claim"
+                }
+              ]
+            },
+            "text": [
+              "Just to make sure I got it right - would you like to check on the status of an existing claim or file a new one?"
+            ],
+            "definitions": null,
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#querySubmitClaim ||   #queryClaimsActivity ||  #queryPendingClaims || #queryRejectedClaims",
+      "dialog_node": "node_1_1557931795270",
+      "previous_sibling": "node_3_1499356818832"
+    },
+    {
+      "type": "standard",
+      "title": "Show All Claims",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "I see the following claims and status on file for you:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "text": [
+              "Is there anything else I can help you with?"
+            ],
+            "definitions": [
+              {
+                "text": "deductable",
+                "definition": "Aclauseinaninsurancepolicythatexemptstheinsurerfrompayinganinitialspecifiedamountintheeventthattheinsuredsustainsalossormustpayforservicesotherwisecoveredunderthepolicy."
+              }
+            ],
+            "uiActionCode": "\\#\\#\\#"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('allclaims')",
+      "dialog_node": "node_1_1557932303556",
+      "previous_sibling": "node_4_1557931795273"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170902",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557933221752",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170902')",
+      "dialog_node": "node_1_1557947789596",
+      "previous_sibling": "node_6_1557947754404"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170903",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557933221752",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170903')",
+      "dialog_node": "node_1_1557947810484",
+      "previous_sibling": "node_1_1557947789596"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170904",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557933221752",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "I see the following claims and status on file for you:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170904')",
+      "dialog_node": "node_1_1557947826696",
+      "previous_sibling": "node_1_1557947810484"
+    },
+    {
+      "type": "standard",
+      "title": "Last 3 months",
+      "output": {
+        "text": {
+          "values": [
+            "Please view the dynamic UI below:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1557948519556",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170902",
+                  "1/1/18",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('last3months')",
+      "dialog_node": "node_1_1557948669080",
+      "previous_sibling": "node_6_1557948662171"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {},
+      "parent": "node_3_1557935039325",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_1_1557950011224"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170901 - copy1",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1557934942366",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170901')",
+      "dialog_node": "node_1_1558012779075",
+      "previous_sibling": "node_2_1557934973800"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1557937256579",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_12_1557945453810",
+      "previous_sibling": "node_7_1557944967709"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1558012819077",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_12_1558012819079",
+      "previous_sibling": "node_11_1558012819079"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1557940010137",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_13_1557945475775",
+      "previous_sibling": "node_8_1557944982490"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1557940044765",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_14_1557945489839",
+      "previous_sibling": "node_9_1557944994488"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1557947754404",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_15_1557948274556"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1557947754404",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_16_1557948299185",
+      "previous_sibling": "node_15_1557948274556"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557947789596",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_17_1557948317275"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557947789596",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_18_1557948333114",
+      "previous_sibling": "node_17_1557948317275"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557947810484",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_19_1557948346046"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557947810484",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_20_1557948356823",
+      "previous_sibling": "node_19_1557948346046"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557947826696",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_21_1557948372605"
+    },
+    {
+      "type": "standard",
+      "title": "81 - anything_else (PLEASE KEEP)",
+      "output": {},
+      "context": {
+        "defaultCounter": "<?$defaultCounter+1?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1467221939202",
+      "previous_sibling": "node_1_1557931795270"
+    },
+    {
+      "type": "standard",
+      "title": "First time - ask to rephrase question",
+      "output": {
+        "text": "I'm not sure what you mean by that. Can you try rephrasing your question?"
+      },
+      "parent": "node_2_1467221939202",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_2_1467919781627",
+      "previous_sibling": "node_1_1467919680248"
+    },
+    {
+      "type": "standard",
+      "title": "Transfer to An Agent - Second Attempt Failed",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry the member name you entered does not exist in our record. Let me connect you with a live agent now."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1509976422392",
+      "metadata": {},
+      "conditions": "$attempt==3",
+      "dialog_node": "node_2_1509995111712"
+    },
+    {
+      "type": "standard",
+      "title": "Verify user credentials",
+      "output": {
+        "text": {
+          "values": [
+            "SOE please verify user credentials"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1508804905779",
+      "context": {
+        "memberID": "<?input.text?>",
+        "actionCode": "207",
+        "memberFirstName": "NA"
+      },
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_2_1510241324154"
+    },
+    {
+      "type": "standard",
+      "title": "Individual Policy",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks $memberFirstName. How can I assist you today?",
+            "What can I help you with today? "
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_3_1510241974667",
+      "context": {
+        "actionCode": "203"
+      },
+      "metadata": {},
+      "conditions": "$memberFamilyIndicatorSOE==\"INDIVIDUAL\"",
+      "dialog_node": "node_2_1515168919933",
+      "previous_sibling": "node_1_1515168656749"
+    },
+    {
+      "type": "standard",
+      "title": "File New Claim",
+      "output": {
+        "text": {
+          "values": [
+            "<p>In most instances, you do not have to file a claim; your provider will usually do this for you. In the event you do need to a file a claim yourself, please follow the instructions in the video below.</p></br><iframe src=\"https://player.vimeo.com/video/188040446?title=0&byline=0&portrait=0\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></br></br><p>Paper claims can be sent to:</br></br>Health Plan Incorporated</br>P O Box 981107</br>El Paso, TX 79998-1107</br></br>Pharmacy Claims must be sent to:</br>Health Plan Incorporated Pharmacy Management</br>PO Box 398106</br>Minneapolis, MN 55435-8106</p>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557931795270",
+      "context": {
+        "actionCode": "201"
+      },
+      "metadata": {},
+      "conditions": "@claimType:(New Claim)",
+      "dialog_node": "node_2_1557931795273"
+    },
+    {
+      "type": "standard",
+      "title": "Second failed attempt",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1557934942366",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Search",
+                  "value": "search"
+                },
+                {
+                  "label": "Show all claims",
+                  "value": "allclaims"
+                }
+              ]
+            },
+            "text": [
+              "Unfortunately, I still do not recognize the claim number you submitted. Would you like to search or show all claims?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "!input.text.toLowerCase().contains('26190731170901') &&     !input.text.toLowerCase().contains('26190731170902') &&  !input.text.toLowerCase().contains('26190731170903') && !input.text.toLowerCase().contains('26190731170904')",
+      "dialog_node": "node_2_1557934973800"
+    },
+    {
+      "type": "standard",
+      "title": "Medical Claims",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('medical')",
+      "dialog_node": "node_2_1557937200670"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1557935039325",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_2_1557950030498",
+      "previous_sibling": "node_1_1557950011224"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1558012779075",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_2_1558012779078"
+    },
+    {
+      "type": "standard",
+      "title": "is sso (pending)",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1467221909631",
+      "context": {
+        "memberID": "<?$member_id?>",
+        "actionCode": "201",
+        "memberName": "<?$username?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1515168656749"
+      },
+      "conditions": "$isSSO==true",
+      "dialog_node": "node_22_1519226028784",
+      "previous_sibling": "node_1_1499356707320"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557947826696",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_22_1557948387374",
+      "previous_sibling": "node_21_1557948372605"
+    },
+    {
+      "type": "standard",
+      "title": "is not sso",
+      "output": {
+        "text": {
+          "values": [
+            " If at any point in our conversation you'd like to start over, just type \"Restart\"."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1467221909631",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1509977216048"
+      },
+      "conditions": "true",
+      "dialog_node": "node_23_1519226042267",
+      "previous_sibling": "node_22_1519226028784"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557948669080",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_23_1557949393960"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557948669080",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_24_1557949408152",
+      "previous_sibling": "node_23_1557949393960"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1557948675361",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_25_1557949423185"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1557948675361",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_26_1557949434743",
+      "previous_sibling": "node_25_1557949423185"
+    },
+    {
+      "type": "standard",
+      "title": "3 - intent[0].confidence<0.50",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry I'm still learning, so I don't have the answer to that."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "intent[0].confidence<0.50",
+      "digress_in": "returns",
+      "dialog_node": "node_3_1499356818832",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1467221909631"
+    },
+    {
+      "type": "standard",
+      "title": "104 - Passed and ask How can I assist you",
+      "output": {},
+      "parent": "node_2_1510241324154",
+      "context": {
+        "actionCode": "201"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1515168656749"
+      },
+      "conditions": "$actionCode==\"104\"",
+      "dialog_node": "node_3_1510241974667",
+      "previous_sibling": "node_1_1509976422392"
+    },
+    {
+      "type": "standard",
+      "title": "Capture Member ID",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1515168656749",
+      "context": {
+        "familyConfirmedID": "<?input.text?>",
+        "membersConcatenatedSOE": "NA"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1515169378913"
+      },
+      "conditions": "true",
+      "dialog_node": "node_3_1515169098111"
+    },
+    {
+      "type": "standard",
+      "title": "Check Status Existing Claim",
+      "output": {
+        "text": {
+          "values": [
+            "Do you know your claim number?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1557931795270",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                },
+                {
+                  "label": "Show all claims",
+                  "value": "allclaims"
+                }
+              ]
+            },
+            "text": [
+              "Do you know your claim number?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@claimType:(Existing Claim)",
+      "dialog_node": "node_3_1557931795273",
+      "previous_sibling": "node_2_1557931795273"
+    },
+    {
+      "type": "standard",
+      "title": "No Claims Found",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "I'm sorry, no claims were found for that parameter.  Would you like to search again?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('dental') ||                   input.text.toLowerCase().contains('vision') ||           !input.text.toLowerCase().contains('2019-04-01') || !input.text.toLowerCase().contains('2019-02-01') ||      !input.text.toLowerCase().contains('2018-01-01')",
+      "dialog_node": "node_3_1557935039325",
+      "previous_sibling": "node_10_1557940044765"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1558012779075",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_3_1558012779078",
+      "previous_sibling": "node_2_1558012779078"
+    },
+    {
+      "type": "standard",
+      "title": "Ask for Member ID",
+      "output": {
+        "text": {
+          "values": [
+            "Thank you. Could you please also provide the Member ID on the front of your card?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_23_1519226042267",
+      "context": {
+        "actionCode": "201",
+        "memberName": "<?input.text?>"
+      },
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_4_1508804905779",
+      "previous_sibling": "node_1_1509977216048"
+    },
+    {
+      "type": "standard",
+      "title": "Final Response",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks. How can I assist you today?",
+            "What can I help you with today? "
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "parent": "node_3_1515169098111",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_4_1515169378913"
+    },
+    {
+      "type": "standard",
+      "title": "No - Search",
+      "output": {
+        "text": {
+          "values": [
+            "No problem. Let's see if I can help you find it. How would you like to search?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Medical Claims",
+                  "value": "medical"
+                },
+                {
+                  "label": "Dental Claims",
+                  "value": "dental"
+                },
+                {
+                  "label": "Vision Claims",
+                  "value": "vision"
+                }
+              ]
+            },
+            "text": [
+              "No problem. Let's see if I can help you find it. How would you like to search?",
+              "By Claim Type:"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "For John Price",
+                  "value": "johnprice"
+                },
+                {
+                  "label": "For Mary Price",
+                  "value": "maryprice"
+                }
+              ]
+            },
+            "text": [
+              "Search by Member Name:"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "By Date Period",
+                  "value": "date"
+                }
+              ]
+            },
+            "text": [
+              "Search by Date Period:"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_4_1557931795273",
+      "previous_sibling": "node_4_1557933221752"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter your claim number"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1557931795273",
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_4_1557933221752"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170902 - copy1",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1557934942366",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170902')",
+      "dialog_node": "node_4_1558012794264",
+      "previous_sibling": "node_1_1558012779075"
+    },
+    {
+      "type": "standard",
+      "title": "Please select claim",
+      "output": {
+        "text": {
+          "values": [
+            "Here is what I found. Please select the claim that you'd liked to know the status for:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Claim 1",
+                  "value": "claim1"
+                },
+                {
+                  "label": "Claim 2",
+                  "value": "claim2"
+                },
+                {
+                  "label": "Claim 3",
+                  "value": "claim3"
+                },
+                {
+                  "label": "Claim 4",
+                  "value": "claim4"
+                }
+              ]
+            },
+            "text": [
+              "Here is what I found. Please select the claim that you'd liked to know the status for:"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "false",
+      "dialog_node": "node_5_1557934376381",
+      "previous_sibling": "node_3_1557935039325"
+    },
+    {
+      "type": "standard",
+      "title": "Not valid claim",
+      "output": {
+        "text": {
+          "values": [
+            "I'm sorry, but I do not recognize the claim number you entered. Please enter your claim number again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557933221752",
+      "conditions": "!input.text.toLowerCase().contains('26190731170901') &&   !input.text.toLowerCase().contains('26190731170902') &&  !input.text.toLowerCase().contains('26190731170901') && !input.text.toLowerCase().contains('26190731170901')",
+      "dialog_node": "node_5_1557934942366",
+      "previous_sibling": "node_1_1557947826696"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {},
+      "parent": "node_2_1557937200670",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_5_1557944855806"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1557937212751",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_5_1557944899226"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1558012794264",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_5_1558012794266"
+    },
+    {
+      "type": "standard",
+      "title": "Claims for John",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('johnprice')",
+      "dialog_node": "node_6_1557937212751",
+      "previous_sibling": "node_2_1557937200670"
+    },
+    {
+      "type": "standard",
+      "title": "Claims for Mary",
+      "output": {
+        "text": {
+          "values": [
+            "Please view the dynamic UI below:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('maryprice')",
+      "dialog_node": "node_6_1557937225459",
+      "previous_sibling": "node_6_1557937212751"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1557937225459",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_6_1557944913584"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170901",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557933221752",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170901')",
+      "dialog_node": "node_6_1557947754404"
+    },
+    {
+      "type": "standard",
+      "title": "Last month",
+      "output": {},
+      "parent": "node_9_1557948519556",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557935039325"
+      },
+      "conditions": "input.text.toLowerCase().contains('lastmonth')",
+      "dialog_node": "node_6_1557948662171"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1558012794264",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_6_1558012794266",
+      "previous_sibling": "node_5_1558012794266"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else?",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1557934621882",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_7_1557934688628"
+    },
+    {
+      "type": "standard",
+      "title": "Yes - Return to beginning of search",
+      "output": {},
+      "parent": "node_10_1557934621882",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_7_1557934733321",
+      "previous_sibling": "node_7_1557934688628"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1557937256579",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_7_1557944967709"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1557937212751",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_7_1557945307638",
+      "previous_sibling": "node_5_1557944899226"
+    },
+    {
+      "type": "standard",
+      "title": "Search",
+      "output": {},
+      "parent": "node_2_1557934973800",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1557931795273"
+      },
+      "conditions": "input.text.toLowerCase().contains('search')",
+      "dialog_node": "node_7_1557947435746"
+    },
+    {
+      "type": "standard",
+      "title": "26190731170903 - copy1",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1557934942366",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('26190731170903')",
+      "dialog_node": "node_7_1558012808143",
+      "previous_sibling": "node_4_1558012794264"
+    },
+    {
+      "type": "standard",
+      "title": "Status from table",
+      "output": {},
+      "parent": "node_5_1557934376381",
+      "dialog_node": "node_8_1557934603836"
+    },
+    {
+      "type": "standard",
+      "title": "Claims by Date - 1/1/18",
+      "output": {
+        "text": {
+          "values": [
+            "Please view the dynamic UI below:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('2018-01-01')",
+      "dialog_node": "node_8_1557937256579",
+      "previous_sibling": "node_9_1557948519556"
+    },
+    {
+      "type": "standard",
+      "title": "Claims by Date - 2/1/19",
+      "output": {
+        "text": {
+          "values": [
+            "Please view the dynamic UI below:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "Here is what I found:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('2019-02-01')",
+      "dialog_node": "node_8_1557940010137",
+      "previous_sibling": "node_8_1557937256579"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1557940010137",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_8_1557944982490"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1558012808143",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_8_1558012808146"
+    },
+    {
+      "type": "standard",
+      "title": "Valid Claim Number",
+      "output": {},
+      "parent": "node_4_1557933221752",
+      "conditions": "input.text.toLowerCase().contains('26190731170901') ||   input.text.toLowerCase().contains('26190731170902') ||  input.text.toLowerCase().contains('26190731170903') || input.text.toLowerCase().contains('26190731170904')",
+      "dialog_node": "node_9_1557934930182",
+      "previous_sibling": "node_5_1557934942366"
+    },
+    {
+      "type": "standard",
+      "title": "Yes, another claim",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1557940044765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1557931795273"
+      },
+      "conditions": "#exclaimationPositive",
+      "dialog_node": "node_9_1557944994488"
+    },
+    {
+      "type": "standard",
+      "title": "All claims",
+      "output": {},
+      "parent": "node_2_1557934973800",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1557932303556"
+      },
+      "conditions": "input.text.toLowerCase().contains('allclaims')",
+      "dialog_node": "node_9_1557947580042",
+      "previous_sibling": "node_7_1557947435746"
+    },
+    {
+      "type": "standard",
+      "title": "Search Claims by Date",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1557931795273",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "From last month",
+                  "value": "lastmonth"
+                },
+                {
+                  "label": "From the last 3 months",
+                  "value": "last3months"
+                },
+                {
+                  "label": "From the last year",
+                  "value": "lastyear"
+                }
+              ]
+            },
+            "text": [
+              "How far back would you like to see claims?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('date')",
+      "dialog_node": "node_9_1557948519556",
+      "previous_sibling": "node_6_1557937225459"
+    },
+    {
+      "type": "standard",
+      "title": "Last year",
+      "output": {
+        "text": {
+          "values": [
+            "I see the following claims and status on file for you:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1557948519556",
+      "context": {
+        "actionCode": "201",
+        "dynamicUIObject": [
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "tableRows": [
+                [
+                  "26190731170901",
+                  "1/1/18",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$415",
+                  "\\$257.56",
+                  "Approved",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170902",
+                  "2/1/19",
+                  "Price, Mary",
+                  "Medical",
+                  "MacGregor Family",
+                  "\\$150",
+                  "\\$0",
+                  "Denied",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170903",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$205",
+                  "\\$8.06",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ],
+                [
+                  "26190731170904",
+                  "4/1/19",
+                  "Price, John",
+                  "Medical",
+                  "McBride, Alvin",
+                  "\\$105",
+                  "\\$19.32",
+                  "Awaiting Patient Payment",
+                  "Link to EOB"
+                ]
+              ],
+              "tableHeader": [
+                "Claim Number",
+                "Date",
+                "For",
+                "Type",
+                "Doctor or Family",
+                "Total",
+                "Member Responsibility",
+                "Status",
+                "Link to EOB"
+              ]
+            },
+            "text": [
+              "I see the following claims and status on file for you:"
+            ],
+            "definitions": null,
+            "uiActionCode": "151"
+          },
+          {
+            "data": {
+              "type": "com.ibm.ccc.models.render.RenderOptions",
+              "options": [
+                {
+                  "label": "Yes",
+                  "value": "yes"
+                },
+                {
+                  "label": "No",
+                  "value": "no"
+                }
+              ]
+            },
+            "text": [
+              "Would you like to check the status of another claim?"
+            ],
+            "definitions": [
+              {
+                "text": "dynamic",
+                "definition": "DEFINITION TEXT"
+              }
+            ],
+            "uiActionCode": "152"
+          }
+        ]
+      },
+      "conditions": "input.text.toLowerCase().contains('lastyear')",
+      "dialog_node": "node_9_1557948675361",
+      "previous_sibling": "node_1_1557948669080"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1558012808143",
+      "conditions": "#exclamationNegative",
+      "dialog_node": "node_9_1558012808146",
+      "previous_sibling": "node_8_1558012808146"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Claims Status Demo",
+  "language": "en",
+  "description": "Working Prototype Created on Oct 23, 2017 by Keira Chen extended by Jackie Joyce"
+}
